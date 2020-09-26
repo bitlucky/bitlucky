@@ -38,13 +38,13 @@
 
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<!--<details>
+  <summary>:zap: Github Stats</summary> -->
 
-  <img align="left" alt="bitlucky's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bitlucky&show_icons=true&hide_border=true" />
-
+ <!-- <img align="left" alt="bitlucky's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bitlucky&show_icons=true&hide_border=true" /> -->
+<!--
 </details>
-
+-->
 [twitter]: https://twitter.com/bitlucky157
 [instagram]: https://instagram.com/90s_bornkid_
 [linkedin]: https://www.linkedin.com/in/lokeshtiwari157/
