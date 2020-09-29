@@ -2,7 +2,7 @@
 
 ## I'm Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Developing an improved version of myself everyday.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
