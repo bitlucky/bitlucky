@@ -3,7 +3,7 @@
 ## I'm Developer!
 
 - 🌱 Developing an improved version of myself everyday.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Learning React Native
 
 
 <!-- ### Spotify Playing 🎧
