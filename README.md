@@ -1,4 +1,4 @@
-### Hi there, I'm Lokesh Tiwari - aka REFLEX 👋
+### Hi there, I'm Lokesh Tiwari 👋
 
 ## I'm Developer!
 
